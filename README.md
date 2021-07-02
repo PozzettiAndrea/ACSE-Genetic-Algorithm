@@ -240,33 +240,3 @@ flake8 filename.py
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Pozzetti, Andrea - andrea.pozzetti20@imperial.ac.uk
-
-Zhang, Zhijin - zhijin.zhang20@imperial.ac.uk
-
-He, Tianxu - tianxu.he19@imperial.ac.uk
-
-Wang, Yikang - yikang.wang20@imperial.ac.uk
-
-Ge, Zeena - zihui.ge20@imperial.ac.uk
-
-Lyu, Shiqi - shiqi.lyu20@imperial.ac.uk
-
-Ilia, Aikaterini - aikaterini.ilia20@imperial.ac.uk
-
-lin, yushen - yushen.lin20@imperial.ac.uk
-
-
-Project Link: [acse-4-gormanium-rush-fluorite](https://github.com/acse-2020/acse-4-gormanium-rush-fluorite)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
